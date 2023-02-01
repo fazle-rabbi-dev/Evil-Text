@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:39
+-keep class com.rabbi.eviltext.AboutApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class com.rabbi.eviltext.Applications { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.rabbi.eviltext.DebugActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.rabbi.eviltext.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.rabbi.eviltext.SplashActivity { <init>(...); }
+
